@@ -1,5 +1,5 @@
 # hello-world
-Hello world is the new project of my essence in starting projects based of data science...etc
+Hello world is the new project of my essence in starting projects based on just another repository...etc
 
 Hi bitches,
 
